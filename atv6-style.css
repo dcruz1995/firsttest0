@@ -1,0 +1,84 @@
+body{
+    font-family: roboto;
+}
+nav{
+    font-size: 20px;
+    line-height: 43px; /*espacamento entre as palavras*/
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.menu{
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.x{
+    background-color: #e5e5e5;
+}
+
+.email{
+    font-size: 20px;
+    line-height: 43px;
+}
+
+h2{
+    font-size: 30px;
+    line-height: 35px;
+}
+
+body p{
+    font-size: 20px;
+    line-height: 26px;
+}
+.box1{
+   line-height: 20px;
+}
+.circle{
+    width: 246px;
+    height: 246px;
+    background-color: #c4c4c4;
+    border-radius: 50%;
+    line-height: 20px;
+}
+
+.dogs p(
+    font-size: 20px;
+    line-height: 26px;  
+)
+
+.dogs{
+    width: 1000px;
+    display: inline-block;
+}
+
+.dog-img0{
+    width: 354px;
+    height: 224px;
+}
+.dog-img    {
+    width: 200px;
+    height: 200px;
+}
+
+section{
+    display: flex;
+}
+
+.img-icon{
+    width: 28px;
+    height: 28px;
+}
+.vejam{
+    line-height: 90px;
+}
+.rodape{
+    font-size: 18px;
+    line-height: 43px;
+}
